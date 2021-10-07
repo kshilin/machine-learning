@@ -1,5 +1,6 @@
 # Текущее ДЗ
-https://classroom.github.com/a/mkw9W8D
+[ссылка](https://classroom.github.com/a/mkw9W8D_)
+
 
 # Введение в машинное обучение (классические методы машинного обучения)
 
