@@ -1,3 +1,6 @@
+# Текущее домашнее задание 
+размещено 19 ноября [забрать тут ...](https://classroom.github.com/a/F71ZissQ)
+
 # Необязательное задание
 [Курс от GitHub о его возможностся для classroom](https://classroom.github.com/a/GZU5uoDL)
 
