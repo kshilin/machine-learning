@@ -1,7 +1,7 @@
 ## Прогнозируем поездки на велосипедах
 
 
-[Велосипеды в Сиэтле]([https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k/data)
+[Велосипеды в Сиэтле](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k/data)
 
 
 1. Собираем простую модель.
