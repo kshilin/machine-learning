@@ -1,3 +1,5 @@
+>**Warning** Репозиторий с ДЗ-1 изменен подробнее [тут](https://github.com/kshilin/machine-learning/tree/main/03-metrica-classification)<br> 
+
 # Введение в машинное обучение (классические методы машинного обучения)
 
 ### Каталог курса "Введение в анализ данных с Python" 
