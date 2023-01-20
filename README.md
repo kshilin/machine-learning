@@ -1,6 +1,4 @@
-Финальное ДЗ https://classroom.github.com/a/kL4g16iJ
-
-https://classroom.github.com/a/6SzNYXF1
+Экзамен https://classroom.github.com/a/uunYMvOg
 
 # Введение в машинное обучение (классические методы машинного обучения)
 
