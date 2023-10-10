@@ -6,4 +6,3 @@
 4. Энкодеры
 5. Трансформеры
 
-Домашнее задание https://classroom.github.com/a/CHvMIGgD
