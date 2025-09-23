@@ -1,9 +1,23 @@
-# Продолжаем о классификации
+# Логистическая регрессия и байесовские классификаторы
 
-1. Логистическая регрессия `ML-2024-04-01.ipynb`
-2. Наивный Байес `ML-2024-02.ipynb`, также графики ROC AUC OvR и OvO для мультиклассовой классификации
+1. Логистическая регрессия
+   - основные понятия
+   - мультколлениарность
+   - регуляризация
+2. Байесовские классификаторы
+   - понятие байесовской вероятности
+   - наимный байесовский классификатор и его варианты
+  
+3. Разное и полезное
 
->**Warning** Разрешенные алгоритмы ML для ДЗ-1<br>
-> - любой из `sklearn.naive_bayes`
-> - `LogisticRegression`
-> - `KNeighborsClassifier` 
+   Домашнее задание в GitHub Classroom после практического занятия
+
+>**ВНИМАНИЕ!!!**<br>
+>**Разрешенные алгоритмы ML для ДЗ-1**<br>
+> - любой из [`sklearn.naive_bayes`](https://scikit-learn.org/stable/api/sklearn.naive_bayes.html#module-sklearn.naive_bayes)
+> - [`LogisticRegression`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
+> - [`KNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier)
+> - [`RadiusNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier)
+>**Подбор параметров ML для ДЗ-1**<br>
+> -  `GridSearchCV`, `RandomizedSearchCV`, `HalvingGridSearchCV` и `HalvingRandomSearchCV`
+> -  применение любых графиков зависимости качества обучения от параметров, например [`ValidationCurveDisplay`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ValidationCurveDisplay.html#sklearn.model_selection.ValidationCurveDisplay)
