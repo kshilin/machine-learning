@@ -24,3 +24,5 @@
 > -  `GridSearchCV`, `RandomizedSearchCV`, `HalvingGridSearchCV` и `HalvingRandomSearchCV`
 > -  применение любых графиков зависимости качества обучения от параметров, например [`ValidationCurveDisplay`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ValidationCurveDisplay.html#sklearn.model_selection.ValidationCurveDisplay)
 > -  можно использовать [`Optuna`](https://optuna.org)
+
+>**Помните про подбор порога ...**
