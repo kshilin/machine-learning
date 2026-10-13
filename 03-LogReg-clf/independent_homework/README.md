@@ -28,6 +28,8 @@
 ### Подсказка
 Не пренебрегайте EDA-анализом, помните, что я всегда постараюсь вам подложить свинью в данных ... 
 
+# Код для проверки результата
+
 ```
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.metrics import accuracy_score, precision_score, classification_report
