@@ -28,5 +28,16 @@
 ### Подсказка
 Не пренебрегайте EDA-анализом, помните, что я всегда постараюсь вам подложить свинью в данных ... 
 
+```
+from sklearn.metrics import ConfusionMatrixDisplay
+from sklearn.metrics import accuracy_score, precision_score, classification_report
 
+y_true = pd.read_csv('test_Y_true.csv')
+y_true = np.where(y_true.values.reshape(-1) >= 7, 1, 0)
 
+print('accuracy :', accuracy_score(y_true, y_predict))
+
+ConfusionMatrixDisplay.from_predictions(y_true, y_predict);
+print('precision_score :', precision_score(y_true, y_predict))
+print(classification_report(y_true, y_predict))
+```
